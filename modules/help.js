@@ -2,27 +2,7 @@ const config = require('../config');
 
 async function mainF(text) {
 
-    const commands = 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝓐𝓷𝓲𝓶𝓮👾,𝓟𝓲𝓪𝓷𝓸🇯🇵,𝓐𝓶𝓿🎧▪️◽️🎶🎵
-
-𝗡𝗮𝗺𝗲 :- 
-
-𝗔𝗴𝗲 :- 
-
-𝗚𝗲𝗻𝗱𝗲𝗿 :-
-
-𝗦𝘁𝘂𝗱𝘆 :-
-
-𝗦𝘁𝗮𝘁𝗲 & 𝗰𝗶𝘁𝘆 :- 
-
-𝗙𝗮𝘃𝗼𝗿 𝗮𝗻𝗶𝗺𝗲 𝗠𝗮𝗻𝗴𝗮 :-
-
-𝗙𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗺𝗮𝗻𝘄𝗵𝗮 :-
-
-𝗛𝗼𝗯𝗯𝗶𝗲𝘀 :-
-
-𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗮𝘁𝗰𝗵𝗶𝗻𝗴 𝗮𝗻𝗱 𝗥𝗲𝗮𝗱𝗶𝗻𝗴 :-
-
-𝗙𝗮𝘃𝗼𝗿 𝗼𝗽 𝗮𝗻𝗱 𝗲𝗻𝗱𝗶𝗻𝗴 :-
+    const commands = good
 
     if (text == "!help") {
         return commands
