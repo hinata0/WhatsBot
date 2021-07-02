@@ -2,7 +2,7 @@ const config = require('../config');
 
 async function mainF(text) {
 
-    const commands = good
+    const commands = what is your name
 
     if (text == "!help") {
         return commands
