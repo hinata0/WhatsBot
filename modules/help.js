@@ -2,7 +2,7 @@ const config = require('../config');
 
 async function mainF(text) {
 
-    const commands = what is your name
+    const commands = `Hey new member `
 
     if (text == "!help") {
         return commands
@@ -47,6 +47,8 @@ async function mainF(text) {
             return `*Shorten*\n\nCreates short URL for any valid URL. \n\n*!shorten [valid-url]*\n`
         } else if (param == "ocr") {
             return `*OCR*\n\nReads text from any readable image. \n\n*Reply a photo with !ocr to read text from that image.*\n`
+        } else if (param == "emailverifier") {
+            return `*Email Verifier*\n\nTest an Email's validity before it bounce. \n\n*Reply an email with !emailverifier*\nor,\n*!emailverifier [Email Address]*\n\n⚡ Powered by infospace.club`
         } else {
             return commands
         }
